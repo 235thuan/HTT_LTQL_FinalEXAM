@@ -1,0 +1,11 @@
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\bin\Debug\LTQL_NguyenDucThuan.exe.config
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\bin\Debug\LTQL_NguyenDucThuan.exe
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\bin\Debug\LTQL_NguyenDucThuan.pdb
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.csproj.AssemblyReference.cache
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.frm_Chinh.resources
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.frm_HH.resources
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.Properties.Resources.resources
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.csproj.GenerateResource.cache
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.csproj.CoreCompileInputs.cache
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.exe
+C:\Users\thuan\Desktop\examLTQL\LTQL_NguyenDucThuan\LTQL_NguyenDucThuan\obj\Debug\LTQL_NguyenDucThuan.pdb
